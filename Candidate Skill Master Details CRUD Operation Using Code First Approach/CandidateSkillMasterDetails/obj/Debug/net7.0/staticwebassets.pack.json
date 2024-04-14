@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CandidateSkillMasterDetails.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CandidateSkillMasterDetails.bundle.scp.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\Images\\R (2).jpg",
+      "PackagePath": "staticwebassets\\Images\\R (2).jpg"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\Images\\R.jpg",
+      "PackagePath": "staticwebassets\\Images\\R.jpg"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\Images\\depositphotos_65699901-stock-photo-black-man-keeping-arms-crossed.jpg",
+      "PackagePath": "staticwebassets\\Images\\depositphotos_65699901-stock-photo-black-man-keeping-arms-crossed.jpg"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "I:\\My All IsDB Exam and project main file\\CandidateSkillMasterDetails CRUD\\CandidateSkillMasterDetails\\CandidateSkillMasterDetails\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CandidateSkillMasterDetails.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CandidateSkillMasterDetails.props",
+      "PackagePath": "build\\CandidateSkillMasterDetails.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CandidateSkillMasterDetails.props",
+      "PackagePath": "buildMultiTargeting\\CandidateSkillMasterDetails.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CandidateSkillMasterDetails.props",
+      "PackagePath": "buildTransitive\\CandidateSkillMasterDetails.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

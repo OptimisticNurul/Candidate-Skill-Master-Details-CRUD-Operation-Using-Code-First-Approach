@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Candidate>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="display-4 alert alert-info">Candidate List</h1>
+<div class="d-flex justify-content-end mb-1">
+    <a asp-action="Create" asp-controller="Candidates" class="btn btn-outline-primary btn-sm"><i class="fa fa-plus-circle"></i></a>
+</div>
+
+@foreach (var item in Model)
+{
+    <div class="card mb-4">
+        <div class="card-header d-flex justify-content-between">
+            <div>
+                <img src="@item.Image" width="50" class="rounded-circle"/>
+                <b> Name : </b>@Html.DisplayFor(x => item.CandidateName)
+                <b> Date of Birth : </b>@Html.DisplayFor(x => item.DateOfBirth)
+                <b> Phone : </b>@Html.DisplayFor(x => item.Phone)
+                <b> Fresher? : </b>@Html.DisplayFor(x => item.Fresher)
+            </div>
+            <div>
+                <a asp-action="Edit" asp-controller="Candidates" class="btn btn-outline-success btn-sm" asp-route-id="@item.CandidateId"><i class="fa fa-pencil"></i></a>
+                <a asp-action="Delete" asp-controller="Candidates" class="btn btn-outline-danger btn-sm" asp-route-id="@item.CandidateId"><i class="fa fa-trash"></i></a>
+            </div>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered table-striped table-responsive-sm">
+                <thead class="table-info">
+                    <tr>
+                        <th>Skills</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var i in item.CandidateSkills)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(x=>i.Skill.SkillName)
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}

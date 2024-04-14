@@ -1,0 +1,771 @@
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\appsettings.json
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\libman.json
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.staticwebassets.runtime.json
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.exe
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.deps.json
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.runtimeconfig.json
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.pdb
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Humanizer.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.AssemblyInfo.cs
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.RazorAssemblyInfo.cs
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.CandidateSkillMasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateSkillMasterDetails.props
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateSkillMasterDetails.props
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateSkillMasterDetails.props
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\scopedcss\bundle\CandidateSkillMasterDetails.styles.css
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\scopedcss\projectbundle\CandidateSkillMasterDetails.bundle.scp.css
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\Candidat.F3136704.Up2Date
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\refint\CandidateSkillMasterDetails.dll
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.pdb
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.genruntimeconfig.cache
+C:\Users\student\Desktop\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\ref\CandidateSkillMasterDetails.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\appsettings.Development.json
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\appsettings.json
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\libman.json
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.staticwebassets.runtime.json
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.exe
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.deps.json
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.runtimeconfig.json
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.pdb
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Azure.Core.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Azure.Identity.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Humanizer.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Build.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Common.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Configuration.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Frameworks.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.LibraryModel.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Packaging.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.ProjectModel.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Protocol.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Versioning.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.CodeDom.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.Convention.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.Hosting.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.Runtime.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.TypedParts.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Memory.Data.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\af\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ar\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\az\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\bg\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\da\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\el\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fa\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\he\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\hr\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\hu\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\hy\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\id\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\is\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ku\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\lv\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\mt\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\nb\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\nl\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ro\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sk\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sl\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sr\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sv\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\uk\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\vi\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.csproj.AssemblyReference.cache
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.AssemblyInfoInputs.cache
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.AssemblyInfo.cs
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.csproj.CoreCompileInputs.cache
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.MvcApplicationPartsAssemblyInfo.cache
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.RazorAssemblyInfo.cache
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.RazorAssemblyInfo.cs
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets.build.json
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets.development.json
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.CandidateSkillMasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateSkillMasterDetails.props
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateSkillMasterDetails.props
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateSkillMasterDetails.props
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets.pack.json
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\scopedcss\bundle\CandidateSkillMasterDetails.styles.css
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\scopedcss\projectbundle\CandidateSkillMasterDetails.bundle.scp.css
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\Candidat.F3136704.Up2Date
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\refint\CandidateSkillMasterDetails.dll
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.pdb
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.genruntimeconfig.cache
+F:\1279683\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\ref\CandidateSkillMasterDetails.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\appsettings.Development.json
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\libman.json
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\appsettings.json
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.staticwebassets.runtime.json
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.exe
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.deps.json
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.runtimeconfig.json
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\CandidateSkillMasterDetails.pdb
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Azure.Core.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Azure.Identity.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Humanizer.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Build.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Mono.TextTemplating.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Newtonsoft.Json.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Common.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Configuration.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Frameworks.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.LibraryModel.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Packaging.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.ProjectModel.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Protocol.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\NuGet.Versioning.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.CodeDom.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.Convention.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.Hosting.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.Runtime.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Composition.TypedParts.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Drawing.Common.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Memory.Data.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Runtime.Caching.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Security.Permissions.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\System.Windows.Extensions.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\af\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ar\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\az\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\bg\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\da\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\el\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fa\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\he\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\hr\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\hu\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\hy\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\id\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\is\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ku\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\lv\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\mt\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\nb\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\nl\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ro\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sk\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sl\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sr\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\sv\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\uk\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\vi\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.csproj.AssemblyReference.cache
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.GeneratedMSBuildEditorConfig.editorconfig
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.AssemblyInfoInputs.cache
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.AssemblyInfo.cs
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.csproj.CoreCompileInputs.cache
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.MvcApplicationPartsAssemblyInfo.cache
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.RazorAssemblyInfo.cache
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.RazorAssemblyInfo.cs
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets.build.json
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets.development.json
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.CandidateSkillMasterDetails.Microsoft.AspNetCore.StaticWebAssets.props
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateSkillMasterDetails.props
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateSkillMasterDetails.props
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateSkillMasterDetails.props
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\staticwebassets.pack.json
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\scopedcss\bundle\CandidateSkillMasterDetails.styles.css
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\scopedcss\projectbundle\CandidateSkillMasterDetails.bundle.scp.css
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.csproj.CopyComplete
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\refint\CandidateSkillMasterDetails.dll
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.pdb
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\CandidateSkillMasterDetails.genruntimeconfig.cache
+I:\My All IsDB Exam and project main file\CandidateSkillMasterDetails CRUD\CandidateSkillMasterDetails\CandidateSkillMasterDetails\obj\Debug\net7.0\ref\CandidateSkillMasterDetails.dll
